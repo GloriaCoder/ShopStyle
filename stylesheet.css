@@ -3,5 +3,5 @@ h1, h2, h3, h4, h5 {
 }
 
 .badge, .product-info__badges, .badge.badge--PROMOTION {
-    display: none;
+    display: none!important;
 }
