@@ -2,8 +2,9 @@ h1, h2, h3, h4, h5 {
     font-family:'Belanosima'!important;
 }
 
-.product-info {
-    &__promotion-description {
+.product {
+    &__info {
+        &__promotion-description {
         display: none!important;
     }
-}
+}}
