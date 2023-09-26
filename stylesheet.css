@@ -23,3 +23,15 @@ h1, h2, h3, h4, h5 {
     line-height: 0!important;
   background-color: var(--color-primary)!important;
 }
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
