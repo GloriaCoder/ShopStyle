@@ -37,9 +37,9 @@ h1, h2, h3, h4, h5 {
 }
 
 
-.grid__column {
-    margin-bottom: 20 px;
-    max-width: 25 %!important;
+.grid__column--6\@md {
+    margin-bottom: 20px;
+    max-width:25%!important;
 }
 
 .container {
