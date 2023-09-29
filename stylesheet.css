@@ -35,3 +35,12 @@ h1, h2, h3, h4, h5 {
   display: table;
   clear: both;
 }
+
+
+.grid__column {
+    margin-bottom: 20px;
+}
+
+.container {
+  max-width: none!important;
+}
