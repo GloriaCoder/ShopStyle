@@ -39,13 +39,9 @@ h1, h2, h3, h4, h5 {
 
 .grid__column--6 {
     margin-botom: 20px;
-  max-width:25%!important
+  max-width:25%!important;
 }
 
 .container {
-  max-width: none!important
-}
-
-.button .button--primary {
-    value: "shop";
+  max-width: none!important;
 }
