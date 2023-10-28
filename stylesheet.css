@@ -1,10 +1,11 @@
 h1, h2, h3, h4, h5 {
     font-family:'Lexend Deca'!important;
-    font-weight: 800!important;
+    font-weight: 700!important;
 }
 
 p {
     font-family:'Lexend Deca'!important;
+        font-weight: 300!important;
 }
 
 .product-info {
