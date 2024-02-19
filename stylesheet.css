@@ -1,3 +1,13 @@
+/* gingercat-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Ginger Cat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://srv1284-files.hstgr.io/68e2e6d90005e754/files/webfonts/gingercat-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
 h1, h2, h3, h4, h5 {
     font-family: 'Ginger Cat', sans-serif!important;
 }
