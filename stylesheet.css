@@ -1,4 +1,4 @@
-/* gingercat-regular - latin 
+/* gingercat-regular - latin */
 @font-face {
   font-display: swap;
   font-family: 'Ginger Cat';
@@ -6,10 +6,9 @@
   font-weight: 400;
   src: url('https://srv1284-files.hstgr.io/3f1c0f6ba994e369/files/webfonts/gingercat-regular.woff2') format('woff2');
 }
-*/
 
 h1, h2, h3, h4, h5 {
-    font-family: 'Belanosima', sans-serif!important;
+    font-family: 'Ginger Cat', sans-serif!important;
 }
 
 
