@@ -11,7 +11,6 @@ h1, h2, h3, h4, h5 {
     font-family: 'Ginger Cat', sans-serif!important;
 }
 
-*/
 
 
 .product-info {
@@ -20,14 +19,19 @@ h1, h2, h3, h4, h5 {
     }
 }
 
+*/
+
 .badge {
   display:none!important;
 }
 
 
+/*
 .product-info__promotion-description {
  display:none!important;
 }
+
+*/
 
 .announcement-bar {
   font-weight: bold!important;
