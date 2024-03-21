@@ -1,4 +1,4 @@
-/* gingercat-regular - latin */
+/* gingercat-regular - latin 
 @font-face {
   font-display: swap;
   font-family: 'Ginger Cat';
@@ -10,6 +10,8 @@
 h1, h2, h3, h4, h5 {
     font-family: 'Ginger Cat', sans-serif!important;
 }
+
+*/
 
 
 .product-info {
